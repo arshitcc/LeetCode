@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findLength(vector<int>& nums1, vector<int>& nums2) {
+        
+        // Similar to GFG's = Longest Commom Substring or Longest Common Subarray now,
         int n = nums1.size();
         int m = nums2.size();
         vector<vector<int>> dp;
