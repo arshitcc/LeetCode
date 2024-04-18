@@ -31,18 +31,33 @@ public:
     
     int islandPerimeter(vector<vector<int>>& grid) {
     
+        // for(int i=0; i<grid.size(); i++){
+        //     bool got = false;
+        //     for(int j=0; j<grid[0].size(); j++){
+        //         if(grid[i][j] == 1 and visited.count({i,j}) == 0){
+        //             dfs(i,j,grid);
+        //             got = true;
+        //             break;
+        //         }
+        //     }
+        //     if(got) break;
+        // }
+        // return perimtr;
+        
+        // Better : 
+        int perimeter = 0;
         for(int i=0; i<grid.size(); i++){
-            bool got = false;
-            for(int j=0; j<grid[0].size(); j++){
-                if(grid[i][j] == 1 and visited.count({i,j}) == 0){
-                    dfs(i,j,grid);
-                    got = true;
-                    break;
+            for(int j=0; j<grid[i].size(); j++){
+                if(grid[i][j] == 1){
+                    perimeter += 4;
+                    if(i+1 <grid.size() and  grid[i+1][j] == 1) perimeter--;
+                    if(j+1 <grid[0].size() and  grid[i][j+1] == 1) perimeter--;
+                    if(i-1>=0 and  grid[i-1][j] == 1) perimeter--;
+                    if(j-1>=0 and  grid[i][j-1] == 1) perimeter--;
                 }
             }
-            if(got) break;
         }
-        
-        return perimtr;
+    
+        return perimeter;
     }
 };
