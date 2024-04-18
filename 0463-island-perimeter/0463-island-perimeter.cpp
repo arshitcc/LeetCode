@@ -34,7 +34,7 @@ public:
         // for(int i=0; i<grid.size(); i++){
         //     bool got = false;
         //     for(int j=0; j<grid[0].size(); j++){
-        //         if(grid[i][j] == 1 and visited.count({i,j}) == 0){
+        //         if(grid[i][j] == 1){
         //             dfs(i,j,grid);
         //             got = true;
         //             break;
