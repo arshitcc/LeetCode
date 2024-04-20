@@ -35,7 +35,7 @@ public:
         
         visited.resize(n+1,vector<int>(m+1));
         
-        // Graph : 
+        // Graph : (Recursive Self)
         // for(int i=0; i<land.size(); i++){
         //     for(int j=0; j<land[i].size(); j++){
         //         if(land[i][j] == 1){
@@ -46,7 +46,7 @@ public:
         //     }
         // }
         
-        // Optimal  :
+        // Optimal : Interative
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(visited[i][j] == 1 or land[i][j] == 0) continue;
