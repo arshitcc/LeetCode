@@ -28,15 +28,43 @@ public:
         
     }
     
+    
     vector<vector<int>> findFarmland(vector<vector<int>>& land) {
-        visited.resize(land.size()+1,vector<int>(land[0].size()+1));
+        int n = land.size();
+        int m = land[0].size();
         
-        for(int i=0; i<land.size(); i++){
-            for(int j=0; j<land[i].size(); j++){
-                if(land[i][j] == 1){
-                    mincor = {INT_MAX,INT_MAX};
-                    maxcor = {INT_MIN,INT_MIN};
-                    dfs(i,j,land); 
+        visited.resize(n+1,vector<int>(m+1));
+        
+        // Graph : 
+        // for(int i=0; i<land.size(); i++){
+        //     for(int j=0; j<land[i].size(); j++){
+        //         if(land[i][j] == 1){
+        //             mincor = {INT_MAX,INT_MAX};
+        //             maxcor = {INT_MIN,INT_MIN};
+        //             dfs(i,j,land); 
+        //         }
+        //     }
+        // }
+        
+        // Optimal  :
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(visited[i][j] == 1 or land[i][j] == 0) continue;
+                visited[i][j] = 1;
+                
+                int start = i, end = j, nextStart = i, nextEnd = j;
+                
+                while(nextEnd < m and land[nextStart][nextEnd] == 1) nextEnd++;
+                nextEnd--;
+                while(nextStart < n and land[nextStart][end] == 1)  nextStart++;
+                nextStart--;
+                
+                ans.push_back({start,end,nextStart,nextEnd});
+                
+                for(int x=start; x<=nextStart; x++){
+                    for(int y=end; y<=nextEnd; y++){
+                        visited[x][y] = 1;
+                    }
                 }
             }
         }
