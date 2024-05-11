@@ -18,6 +18,7 @@ public:
         double minRatio = 0;
         priority_queue<int> pq;
         
+        // The HARD-Part :
         for(int i=0; i<k; i++){
             minRatio = max(minRatio, pay[i].first);
             qualitySum += pay[i].second;
