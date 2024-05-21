@@ -5,7 +5,6 @@ void helper(vector<vector<int>> &v, vector<int> &nums, vector<int> ans, int idx)
 
     if(idx==nums.size()){
         v.push_back(ans);
-        cout<<endl;
         return;
     }
     helper(v,nums,ans,idx+1);
