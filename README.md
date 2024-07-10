@@ -6,3 +6,15 @@ The `src` directory contains individual C++ files for each LeetCode problem. Eac
 If you have any questions or suggestions, feel free to reach out at 🐦[@arshitcc](https://twitter.com/arshitcc) . Don't forget to star the repository, Please do a like or an upVote to my solutions at 👨‍🎓💻[@arshitcc](https://leetcode.com/arshitcc) if you find it useful . 
 Happy coding! 👨‍💻
 Thank you! 🚀🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/arshitcc/LeetCode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/arshitcc/LeetCode/tree/master/2050-count-good-numbers) |
+<!---LeetCode Topics End-->
