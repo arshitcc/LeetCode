@@ -7,3 +7,15 @@ If you have any questions or suggestions, feel free to reach out at 🐦[@arshit
 Happy coding! 👨‍💻
 Thank you! 🚀🔥
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/arshitcc/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/arshitcc/LeetCode/tree/master/0050-powx-n) |
+<!---LeetCode Topics End-->
