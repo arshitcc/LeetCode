@@ -17,4 +17,16 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/arshitcc/LeetCode/tree/master/2050-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
