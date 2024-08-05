@@ -21,6 +21,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ Thank you! 🚀🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arshitcc/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
@@ -49,6 +51,7 @@ Thank you! 🚀🔥
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +70,8 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
