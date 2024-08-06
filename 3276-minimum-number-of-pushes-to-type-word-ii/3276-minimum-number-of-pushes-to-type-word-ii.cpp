@@ -4,22 +4,20 @@ public:
         
         vector<int> v(26);
         for(auto i : word) v[i-'a']++;
-        for(auto i : v) cout<<i<<" ";
-        cout<<endl;
         sort(v.rbegin(), v.rend());
         
 
-        int start = 8;
+        int slots = 8;
         int ans = 0;
-        int count = 1;
+        int min_push = 1;
 
         for(auto i : v){
-            if(start == 0){ // mc
-                start = 8;
-                count++;
+            if(slots == 0){ // mc
+                slots = 8;
+                min_push++;
             }
-            ans += count*i;
-            start--;
+            ans += min_push*i;
+            slots--;
         }
 
         return ans;
