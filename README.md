@@ -14,6 +14,7 @@ Thank you! 🚀🔥
 | ------- |
 | [0273-integer-to-english-words](https://github.com/arshitcc/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2050-count-good-numbers](https://github.com/arshitcc/LeetCode/tree/master/2050-count-good-numbers) |
+| [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Thank you! 🚀🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arshitcc/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -114,4 +116,8 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
