@@ -43,6 +43,7 @@ Thank you! 🚀🔥
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arshitcc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/arshitcc/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/arshitcc/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -138,5 +139,6 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/arshitcc/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arshitcc/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
