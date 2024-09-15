@@ -25,6 +25,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/arshitcc/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -65,6 +66,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -147,6 +149,7 @@ Thank you! 🚀🔥
 | [0137-single-number-ii](https://github.com/arshitcc/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arshitcc/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshitcc/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -154,6 +157,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
 |  |
 | ------- |
