@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     void lexicoNums(int num, int n, vector<int> &ans){
         if(num<=n and num!=0){
             ans.push_back(num);
