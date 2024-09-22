@@ -41,6 +41,7 @@ Thank you! 🚀🔥
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshitcc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/arshitcc/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -117,6 +118,7 @@ Thank you! 🚀🔥
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/arshitcc/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -137,6 +139,7 @@ Thank you! 🚀🔥
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -145,6 +148,7 @@ Thank you! 🚀🔥
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Simulation
 |  |
