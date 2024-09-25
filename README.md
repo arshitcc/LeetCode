@@ -80,6 +80,7 @@ Thank you! 🚀🔥
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -92,6 +93,7 @@ Thank you! 🚀🔥
 | ------- |
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -124,6 +126,7 @@ Thank you! 🚀🔥
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/arshitcc/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
@@ -143,15 +146,18 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Simulation
 |  |
