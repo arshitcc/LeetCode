@@ -58,6 +58,7 @@ Thank you! 🚀🔥
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
 | [1196-filling-bookcase-shelves](https://github.com/arshitcc/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -139,6 +140,7 @@ Thank you! 🚀🔥
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arshitcc/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -200,4 +202,12 @@ Thank you! 🚀🔥
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/arshitcc/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
