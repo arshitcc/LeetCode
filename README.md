@@ -30,6 +30,7 @@ Thank you! 🚀🔥
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshitcc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/arshitcc/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/arshitcc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -52,6 +53,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arshitcc/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/arshitcc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arshitcc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/arshitcc/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshitcc/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -116,6 +118,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/arshitcc/LeetCode/tree/master/0402-remove-k-digits) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -229,6 +232,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arshitcc/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/arshitcc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arshitcc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshitcc/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshitcc/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
