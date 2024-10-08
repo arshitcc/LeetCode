@@ -86,6 +86,7 @@ Thank you! 🚀🔥
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arshitcc/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshitcc/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
@@ -107,6 +108,7 @@ Thank you! 🚀🔥
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
@@ -119,6 +121,7 @@ Thank you! 🚀🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -134,6 +137,7 @@ Thank you! 🚀🔥
 | [0042-trapping-rain-water](https://github.com/arshitcc/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
