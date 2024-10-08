@@ -37,6 +37,7 @@ Thank you! 🚀🔥
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -59,6 +60,7 @@ Thank you! 🚀🔥
 | [0735-asteroid-collision](https://github.com/arshitcc/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshitcc/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshitcc/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Array
 |  |
@@ -131,6 +133,7 @@ Thank you! 🚀🔥
 | ------- |
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/arshitcc/LeetCode/tree/master/0402-remove-k-digits) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -141,6 +144,7 @@ Thank you! 🚀🔥
 | [0567-permutation-in-string](https://github.com/arshitcc/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
