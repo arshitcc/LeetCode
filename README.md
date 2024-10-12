@@ -95,6 +95,7 @@ Thank you! 🚀🔥
 | [2227-sum-of-subarray-ranges](https://github.com/arshitcc/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arshitcc/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshitcc/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -134,6 +135,7 @@ Thank you! 🚀🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -144,6 +146,7 @@ Thank you! 🚀🔥
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshitcc/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -154,6 +157,7 @@ Thank you! 🚀🔥
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -241,6 +245,7 @@ Thank you! 🚀🔥
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Brainteaser
 |  |
 | ------- |
@@ -279,4 +284,5 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshitcc/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
