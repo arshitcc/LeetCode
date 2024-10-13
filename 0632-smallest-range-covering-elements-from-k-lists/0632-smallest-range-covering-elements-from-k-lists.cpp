@@ -11,17 +11,11 @@ public:
             pq.push({nums[i][0], {i,0}});
         }
 
-        // while(pq.size()) {
-        //     cout<<pq.top().first<<" "<<pq.top().second.first<<" "<<pq.top().second.second<<endl;
-        //     pq.pop();
-        // }
-        // return {};
-
         int rst = pq.top().first;
         int rnd = mx;
 
         while(pq.size()){
-            
+
             auto x = pq.top();
             int i = x.second.first;
             int idx = x.second.second;
