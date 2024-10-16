@@ -51,6 +51,7 @@ Thank you! 🚀🔥
 | [0042-trapping-rain-water](https://github.com/arshitcc/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshitcc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0403-frog-jump](https://github.com/arshitcc/LeetCode/tree/master/0403-frog-jump) |
 | [0943-sum-of-subarray-minimums](https://github.com/arshitcc/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/arshitcc/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -76,6 +77,7 @@ Thank you! 🚀🔥
 | [0137-single-number-ii](https://github.com/arshitcc/LeetCode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
+| [0403-frog-jump](https://github.com/arshitcc/LeetCode/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/arshitcc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshitcc/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
