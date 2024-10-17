@@ -4,8 +4,12 @@ public:
     int maximumSwap(int num) {
 
         // BruteForce : Zindabad
-       string x = to_string(num);
+        string x = to_string(num);
 
+        // num = 10^8
+        // its string size = 8
+        // TC : (8*8)
+        
         int maxNum = num;
         for(int i=0; i<x.size(); i++){
             for(int j=i+1; j<x.size(); j++){
