@@ -1,24 +1,24 @@
 class Solution {
 public:
-
     int maximumSwap(int num) {
-
-        // BruteForce : Zindabad
-        string x = to_string(num);
-
-        // num = 10^8
-        // its string size = 8
-        // TC : (8*8)
         
-        int maxNum = num;
+        string x = to_string(num);
+        int n = x.size();
+        vector<int> mc(n);
+        mc[n-1] = n-1;
+
+        for(int i=n-2; i>=0; i--){
+            if(x[i]<=x[mc[i+1]]) mc[i]=mc[i+1];
+            else mc[i]=i;
+        }
+
         for(int i=0; i<x.size(); i++){
-            for(int j=i+1; j<x.size(); j++){
-                swap(x[i],x[j]);
-                num = stoi(x);
-                maxNum = max(maxNum,num);
-                swap(x[i],x[j]);
+            if(x[i] < x[mc[i]]) {
+                swap(x[i], x[mc[i]]);
+                return stoi(x);
             }
         }
-        return maxNum;
+
+        return num;
     }
 };
