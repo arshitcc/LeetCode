@@ -93,6 +93,7 @@ Thank you! 🚀🔥
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arshitcc/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/arshitcc/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshitcc/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
