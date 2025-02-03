@@ -16,20 +16,15 @@ public:
         vector<int> rotated = nums;
         sort(nums.begin(), nums.end());
 
-        int x = 1;
-        int n = nums.size();
-
-        
-        while(x < n){
+        for(int x=1; x<nums.size(); x++){
             bool isRotated = true;
             for(int i=0; i<nums.size(); i++){
-                if(nums[i]!=rotated[(i+x)%n]){
+                if(nums[i]!=rotated[(i+x)%nums.size()]){
                     isRotated = false;
                     break;
                 }
             }
             if(isRotated) return true;
-            x++;
         }
 
         return false;
