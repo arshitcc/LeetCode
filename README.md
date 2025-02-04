@@ -108,6 +108,7 @@ Thank you! 🚀🔥
 | [2727-number-of-senior-citizens](https://github.com/arshitcc/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arshitcc/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/arshitcc/LeetCode/tree/master/3429-special-array-i) |
 ## Sliding Window
 |  |
 | ------- |
