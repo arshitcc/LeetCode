@@ -110,6 +110,7 @@ Thank you! 🚀🔥
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arshitcc/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arshitcc/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshitcc/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Thank you! 🚀🔥
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshitcc/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +243,7 @@ Thank you! 🚀🔥
 | [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshitcc/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshitcc/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
 | ------- |
