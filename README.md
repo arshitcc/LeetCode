@@ -136,6 +136,7 @@ Thank you! 🚀🔥
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshitcc/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -285,6 +286,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
+| [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -307,5 +309,10 @@ Thank you! 🚀🔥
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshitcc/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshitcc/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
