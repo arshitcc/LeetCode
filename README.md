@@ -47,6 +47,7 @@ Thank you! 🚀🔥
 | [3195-separate-black-and-white-balls](https://github.com/arshitcc/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/arshitcc/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Thank you! 🚀🔥
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/arshitcc/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshitcc/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/arshitcc/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Thank you! 🚀🔥
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshitcc/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshitcc/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/arshitcc/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
