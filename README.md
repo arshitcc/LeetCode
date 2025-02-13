@@ -107,6 +107,7 @@ Thank you! 🚀🔥
 | [2227-sum-of-subarray-ranges](https://github.com/arshitcc/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arshitcc/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arshitcc/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshitcc/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -141,6 +142,7 @@ Thank you! 🚀🔥
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arshitcc/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arshitcc/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshitcc/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -156,6 +158,7 @@ Thank you! 🚀🔥
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2117-find-original-array-from-doubled-array](https://github.com/arshitcc/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arshitcc/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshitcc/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshitcc/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,6 +319,7 @@ Thank you! 🚀🔥
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshitcc/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshitcc/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arshitcc/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Ordered Set
 |  |
