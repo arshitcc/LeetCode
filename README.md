@@ -16,6 +16,7 @@ Thank you! 🚀🔥
 | [0273-integer-to-english-words](https://github.com/arshitcc/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/arshitcc/LeetCode/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/arshitcc/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/arshitcc/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arshitcc/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -94,6 +95,7 @@ Thank you! 🚀🔥
 | [1196-filling-bookcase-shelves](https://github.com/arshitcc/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/arshitcc/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arshitcc/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arshitcc/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -277,6 +279,7 @@ Thank you! 🚀🔥
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshitcc/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshitcc/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Brainteaser
 |  |
@@ -295,6 +298,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -325,4 +329,8 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/arshitcc/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
