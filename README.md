@@ -37,6 +37,7 @@ Thank you! 🚀🔥
 | [0567-permutation-in-string](https://github.com/arshitcc/LeetCode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshitcc/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/arshitcc/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arshitcc/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -134,6 +135,7 @@ Thank you! 🚀🔥
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1160-letter-tile-possibilities](https://github.com/arshitcc/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/arshitcc/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshitcc/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arshitcc/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -197,6 +199,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/arshitcc/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arshitcc/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshitcc/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arshitcc/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -333,4 +336,8 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/arshitcc/LeetCode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
