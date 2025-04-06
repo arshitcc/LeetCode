@@ -84,6 +84,7 @@ Thank you! 🚀🔥
 | [0042-trapping-rain-water](https://github.com/arshitcc/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0137-single-number-ii](https://github.com/arshitcc/LeetCode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/arshitcc/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/arshitcc/LeetCode/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/arshitcc/LeetCode/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/arshitcc/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -211,6 +212,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/arshitcc/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -220,6 +222,7 @@ Thank you! 🚀🔥
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
@@ -243,6 +246,7 @@ Thank you! 🚀🔥
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshitcc/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -268,6 +272,7 @@ Thank you! 🚀🔥
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [2411-spiral-matrix-iv](https://github.com/arshitcc/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
