@@ -90,6 +90,7 @@ Thank you! 🚀🔥
 | [0496-next-greater-element-i](https://github.com/arshitcc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/arshitcc/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshitcc/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/arshitcc/LeetCode/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
@@ -135,6 +136,7 @@ Thank you! 🚀🔥
 | [0567-permutation-in-string](https://github.com/arshitcc/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshitcc/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshitcc/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arshitcc/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -235,6 +237,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -319,6 +322,7 @@ Thank you! 🚀🔥
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshitcc/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -363,5 +367,6 @@ Thank you! 🚀🔥
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
