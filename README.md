@@ -216,6 +216,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arshitcc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/arshitcc/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -237,6 +238,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arshitcc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0705-design-hashset](https://github.com/arshitcc/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arshitcc/LeetCode/tree/master/0706-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/arshitcc/LeetCode/tree/master/0859-design-circular-deque) |
@@ -247,6 +249,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arshitcc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -256,6 +259,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arshitcc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/arshitcc/LeetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -265,6 +269,7 @@ Thank you! 🚀🔥
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arshitcc/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arshitcc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshitcc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arshitcc/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/arshitcc/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
